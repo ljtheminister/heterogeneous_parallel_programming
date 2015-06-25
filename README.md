@@ -1,0 +1,2 @@
+# heterogeneous_parallel_programming
+Coursera's Heterogeneous Parallel Programming Course
